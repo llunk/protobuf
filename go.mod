@@ -1,4 +1,4 @@
-module github.com/llunk
+module github.com/llunk/protobuf
 
 go 1.23.0
 
